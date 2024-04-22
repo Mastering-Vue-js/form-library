@@ -18,9 +18,9 @@
     "email": "sayedulsayem@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/euvl/vue-js-modal/issues"
+    "url": "https://github.com/Mastering-Vue-js/form-library/issues"
   },
-  "homepage": "https://github.com/euvl/vue-js-modal#readme",
+  "homepage": "https://github.com/Mastering-Vue-js/form-library#readme",
   "tags": ["vue", "form", "library"],
   "license": "MIT",
   "scripts": {
